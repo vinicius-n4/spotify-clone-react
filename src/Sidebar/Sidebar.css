@@ -21,7 +21,6 @@
 
 .sidebar__navigation .logo img {
     width: 80px;
-
 }
 
 .sidebar nav ul {
@@ -38,6 +37,12 @@
     text-decoration: none;
     font-weight: 600;
     font-size: 14px;
+}
+
+.sidebar nav ul .fa {
+    font-size: 20px;
+    margin-right: 10px;
+    padding-right: 8px;
 }
 
 .library {

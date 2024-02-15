@@ -47,8 +47,8 @@ const Sidebar = () => {
                     <a href="">Legal</a>
                     <a href="">Privacy Center</a>
                     <a href="">Privacy Policy</a>
-                    <a href="">Cookie Settings</a>
-                    <a href="">About Ads</a>
+                    <a href="">Settings</a>
+                    <a href="">Ads</a>
                     <a href="">Accessibility</a>
                     <a href="">Cookies</a>
                 </div>
